@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Easy Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_desc">note</string>
+    <string name="notification_channel_name">EasyPlayer</string>
+    <string name="previous">Previous</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="channel_name">Simple channel</string>
+    <string name="channel_description">Simple channel desc</string>
+</resources>
